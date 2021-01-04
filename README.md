@@ -17,3 +17,7 @@ The objective of the dataset is to diagnostically predict whether or not a patie
 ### **Target**
 
     Outcome - Class variable (0 or 1)
+    
+### Solution
+
+EDA of Features and KNN based regression model.
